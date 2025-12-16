@@ -1,2 +1,2 @@
 # psql
-learning Postgresql
+learning Postgresql with Chat GPT
